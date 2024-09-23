@@ -1,0 +1,14 @@
+element.style {
+}
+canvas {
+    border: 1px solid #d3d3d3;
+    background-color: #f1f1f1;
+}
+canvas[Attributes Style] {
+    aspect-ratio: auto 480 / 270;
+}
+user agent stylesheet
+canvas {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
